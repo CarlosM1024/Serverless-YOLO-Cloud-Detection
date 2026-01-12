@@ -33,7 +33,7 @@ The system demonstrates a complete serverless architecture for real-time AI infe
 
 ## 🏗️ Architecture
 
-```
+```text
 ┌─────────────────┐
 │  Flutter App    │
 │  📱 Mobile      │
@@ -117,21 +117,21 @@ The YOLO11n model can detect 80 different objects including:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/CarlosM1024/Object_Detection_Flutter_YOLO.git
-   cd Object_Detection_Flutter_YOLO
+   git clone https://github.com/CarlosM1024/git@github.com:CarlosM1024/Serverless-YOLO-Cloud-Detection.git
+   cd Serverless-YOLO-Cloud-Detection
    ```
 
 2. **Deploy Backend (Cloud Run).**
 
-   See [cloud_run/README.md](https://github.com/CarlosM1024/Object_Detection_Flutter_YOLO/tree/main/cloud_run) for detailed instructions and run ``main.py``.
+   See [cloud_run/README.md](/cloud_run/) for detailed instructions and run ``main.py``.
 
 3. **Deploy Cloud Functions.**
 
-   Update CLOUD_RUN_URL and run ``main.py``, located in [Firebase_functions/](https://github.com/CarlosM1024/Object_Detection_Flutter_YOLO/tree/main/Firebase_functions)
+   Update CLOUD_RUN_URL and run ``main.py``, located in [Firebase_functions/](/Firebase_functions/)
 
 4. **Setup Mobile App**
 
-   Add your Firebase config files in [mobile_app/](hhttps://github.com/CarlosM1024/Object_Detection_Flutter_YOLO/tree/main/mobile_app)
+   Add your Firebase config files in [mobile_app/](/mobile_app/)
 
    ```bash
    cd mobile_app
@@ -146,7 +146,7 @@ For detailed setup instructions, see the README in each folder.
 ## 📁 Project Structure
 
 ```text
-Object_Detection_Flutter_YOLO/
+Serverless-YOLO-Cloud-Detection/
 │
 ├── README.md                 # This file
 ├── LICENSE                   # MIT License

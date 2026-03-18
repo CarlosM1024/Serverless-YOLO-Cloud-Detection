@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎓 Academic Context
 
-This project is a simplified, open-source version of my [article](https://doi.org/10.32854/rxr1f675) and master's thesis on detecting coffee cherry maturity using computer vision. The original thesis work involved:
+This project is a simplified, open-source version of my [article](https://doi.org/10.32854/rxr1f675) and [master's thesis](https://rinacional.tecnm.mx/jspui/handle/TecNM/12189) on detecting coffee cherry maturity using computer vision. The original thesis work involved:
 
 - Custom YOLO model training for coffee cherry classification
 - Field deployment in coffee plantations

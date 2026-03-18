@@ -11,7 +11,7 @@
 
 ## 📖 About
 
-This project is a simplified version of my Master's thesis on coffee cherry maturity detection, adapted for general object detection using the pre-trained YOLO11n model (COCO dataset).
+This project is a simplified version of my [Master's thesis](https://rinacional.tecnm.mx/jspui/handle/TecNM/12189) on coffee cherry maturity detection, adapted for general object detection using the pre-trained YOLO11n model (COCO dataset).
 
 The system demonstrates a complete serverless architecture for real-time AI inference, combining:
 
